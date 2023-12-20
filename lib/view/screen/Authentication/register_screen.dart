@@ -1,12 +1,10 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:food_ordering/core/provider/loading_provider.dart';
 import 'package:food_ordering/core/services/auth_services.dart';
 import 'package:food_ordering/utils/style.dart';
 import 'package:food_ordering/view/screen/Authentication/login_screen.dart';
-import 'package:food_ordering/view/screen/Home/home_screen.dart';
+
 import 'package:provider/provider.dart';
 
 import '../../shared/widget/text_field_widget.dart';
